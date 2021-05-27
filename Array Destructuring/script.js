@@ -68,3 +68,4 @@ console.log(p, q, r);
 // console.log(d, e, f);
 const [d = 1, e = 1, f = 1] = [8, 9];
 console.log(d, e, f);
+//Already bug fixed
